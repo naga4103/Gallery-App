@@ -1,0 +1,16 @@
+/* Write your code here. */
+.button-class {
+  border-width: 0px;
+  background-color: transparent;
+}
+
+.opacity-class {
+  border-width: 0px;
+  background-color: transparent;
+  opacity: 0.5;
+}
+.li-container {
+  list-style-type: none;
+  display: flex;
+  flex-direction: row;
+}
